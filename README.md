@@ -1,1 +1,1 @@
-https://alwaysgreen-utah.com/
+This repository demonstrates how to use Python to interact with APIs and download files programmatically. It provides a practical example of making authenticated requests to an API, parsing the response, and downloading files to your local system.
